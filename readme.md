@@ -16,5 +16,6 @@ This project is a landing page of a electronic product website coded purely in H
 
 Below is the link and view of the project👇👇👇
 <br>
+[product-mania](https://product-mania.netlify.app/)
 
 ![Product-Mania](./project7css.png)
