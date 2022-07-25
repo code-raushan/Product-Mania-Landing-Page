@@ -66,6 +66,8 @@ img[alt = "circles"]{
 }
 p.text{
     margin-right: 700px;
+    font-family: Poppins;
+    font-size: 15px;
 }
 .action-btns{
     position: fixed;
