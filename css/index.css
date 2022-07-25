@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+}
+.nav-items{
+    display: flex;
+    gap: 60px;
+    font-size: 140%;
+    font-family: Poppins;
+}
+.active-item{
+    color: #FE5E35;
+}
+.nav-item:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+img[alt="actions"]:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.intro-section{
+    display: flex;
+}
+.left-section{
+    padding: 30px 30px;
+}
+.left-section>h3{
+    font-size: 50px;
+    font-family: Poppins;
+}
+img[alt = "circles"]{
+    width: 5%;
+    
+}
+.left-section>h1{
+    font-size: 70px;
+    font-family: Poppins;
+    font-weight: bolder;
+}
+.sub-headlines{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sub-headline{
+    padding: 5px 55px;
+    font-size: 20px;
+    font-family: Poppins;
+}
+.plus{
+    color: white;
+    background: red;
+    border-radius: 100%;
+    font-size: 20px;
+    padding: 2px 8px;
+    margin-right: 10px;
+}
+p.text{
+    margin-right: 700px;
+}
+.action-btns{
+    position: fixed;
+    bottom: 35px;
+}
+.action-btn{
+    font-size: 15px;
+    font-family: Poppins;
+    padding: 10px 15px;
+    color: white;
+    background-color: #FE5E35;
+    border: 0;
+    border-radius: 30px;
+    margin-right: 20px;
+}
+
+.right-section{
+    display: flex;
+    flex-direction: column;  
+    padding-right: 30px;
+    
+    
+}
+img[alt="headphone"]{
+    width: 30%;
+    position: fixed;
+    top: 80px;
+    right: 160px;
+    z-index: -1;
+}
+.dots{
+    position: fixed;
+    bottom: 95px;
+    right: 315px;
+    display: flex;
+    gap: 20px;
+
+}
+.dot{
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+}
+.yellow-dot{
+    background-color: yellow;
+}
+.tomato-dot{
+    background-color: tomato;
+}
+.black-dot{
+    background-color: black;
+}
+.right-button{
+    position: fixed;
+    bottom: 35px;
+    right: 285px;    
+}
+.discount{
+    position: fixed;
+    right: 470px;
+    bottom: 180px;
+    width: 10%;
+}
+.discount-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1px;
+    position: fixed;
+    bottom: 220px;
+    right: 490px;
+    color: white;
+
+}
+.discount-content>h4{
+    
+    font-size: 80%;
+}
+.discount-content>h1{
+    
+    font-size: 300%;
+}
+
