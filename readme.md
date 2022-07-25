@@ -12,7 +12,7 @@ This project is a landing page of a electronic product website coded purely in H
     - `positions` for image positioning
 
 
->This project was relatively harder than few last projects and it tool around 2.5 hours to complete it. However, it was much fun😉.
+>This project was relatively harder than few last projects and it took around 2.5 hours to complete it. However, it was much fun😉.
 
 Below is the link and view of the project👇👇👇
 <br>
